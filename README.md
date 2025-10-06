@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **riya9818/riya9818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Riya Basnet
+
+I'm a Python Django developer who enjoys turning ideas into clean, structured, and working systems. I focus on backend development, database design, and integration. 
+
+I’ve worked on projects ranging from land rental systems and e-commerce platforms to data analysis dashboards. I’m currently improving my full-stack workflow and refining how I design, build, and deploy Django-based applications.
+
+---
