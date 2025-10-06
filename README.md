@@ -40,10 +40,7 @@ Python Django developer with an interest in backend systems, APIs, and database 
 <html>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riya9818&show_icons=true&theme=github_dark" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya9818&layout=compact&theme=
-  
-  
-  " height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya9818&layout=compact&theme=github_dark" height="165">
 </p>
 </html>
 ---
