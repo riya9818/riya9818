@@ -30,7 +30,7 @@ Python Django developer with an interest in backend systems, APIs, and database 
 
 ### Tech Stack
 **Languages:** Python, JavaScript, HTML, CSS, Java, SQL  
-**Frameworks:** Django, JSP , Bootstrap
+**Frameworks:** Django, JSP, Bootstrap
 **Databases:** MySQL, SQLite  
 **Tools:** Git, GitHub, VS Code, Eclipse IDE, Jupyter Notebook  
 
