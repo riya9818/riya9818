@@ -43,13 +43,19 @@ Python Django developer with an interest in backend systems, APIs, and database 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya9818&layout=compact&theme=github_dark" height="165">
 </p>
 </html>
----
-
-### Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riya-basnet-11b586343/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKAYOanNKR1%2B4yAgRM4Ifxg%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riyabasnet0924@gmail.com) 
-
 
 ---
-[![](https://visitcount.itsvg.in/api?id=riya9818&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Socials
+<p align="center">
+  <a href="https://www.linkedin.com/in/riya-basnet-11b586343/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:riyabasnet0924@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
