@@ -21,3 +21,10 @@ I'm a Python Django developer who enjoys turning ideas into clean, structured, a
 I’ve worked on projects ranging from land rental systems and e-commerce platforms to data analysis dashboards. I’m currently improving my full-stack workflow and refining how I design, build, and deploy Django-based applications.
 
 ---
+
+
+### GitHub Stats
+![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riya9818&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riya9818&layout=compact&theme=default)
+
+---
