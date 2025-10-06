@@ -24,7 +24,10 @@ I’ve worked on projects ranging from land rental systems and e-commerce platfo
 
 
 ### GitHub Stats
-![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riya9818&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riya9818&layout=compact&theme=default)
-
+<html>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riya9818&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya9818&layout=compact&theme=tokyonight" height="165">
+</p>
+</html>
 ---
