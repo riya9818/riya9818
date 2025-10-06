@@ -19,7 +19,7 @@ Python Django developer with an interest in backend systems, APIs, and database 
 
 ### Tech Stack
 **Languages:** Python, JavaScript, HTML, CSS, Java, SQL  
-**Frameworks:** Django, JSP, Bootstrap
+**Frameworks:** Django, JSP, Bootstrap 
 **Databases:** MySQL, SQLite  
 **Tools:** Git, GitHub, VS Code, Eclipse IDE, Jupyter Notebook  
 
@@ -28,12 +28,12 @@ Python Django developer with an interest in backend systems, APIs, and database 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riya9818&show_icons=true&theme=github_dark&bg_color=00000000" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya9818&layout=compact&theme=github_dark&bg_color=00000000" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=riya9818&show_icons=true&theme=tokyonight&bg_color=00000000" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya9818&layout=compact&theme=tokyonight&bg_color=00000000" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya9818&theme=github_dark&background=00000000" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya9818&theme=tokyonight&background=00000000" height="165">
 </p>
 
 ---
@@ -49,5 +49,4 @@ Python Django developer with an interest in backend systems, APIs, and database 
   </a>
 </p>
 
----
 
