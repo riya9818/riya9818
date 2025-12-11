@@ -33,7 +33,8 @@ Python Django developer with an interest in backend systems, APIs, and database 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya9818&theme=tokyonight&background=00000000" height="165">
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya9818&theme=tokyonight&background=00000000" height="165">-->
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=riya9818)](https://git.io/streak-stats)
 </p>
 
 ---
