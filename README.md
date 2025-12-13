@@ -5,7 +5,7 @@
 -->
 # Hi, I'm Riya Basnet
 
-Python Django developer with an interest in backend systems, APIs, data engineering, and database management. I enjoy building reliable, well-structured web applications.
+Python Django developer with an interest in backend systems, APIs, and database management. I enjoy building reliable, well-structured web applications.
 
 ---
 ### About Me
