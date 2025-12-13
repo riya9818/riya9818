@@ -9,7 +9,8 @@ Python Django developer with an interest in backend systems, APIs, and database 
 
 ---
 ### About Me
-- Focused on backend development with Django and REST APIs  
+- Focused on backend development with Django and REST APIs
+- Actively learning AI/ML pipeline.
 - Exploring automation, scalability, and database optimization  
 - Improving front-end integration with HTML, CSS, and Tailwind CSS  
 - Open to collaboration and real-world project experience
@@ -23,7 +24,7 @@ Python Django developer with an interest in backend systems, APIs, and database 
 **Databases:** MySQL, SQLite  
 **Tools:** Git, GitHub, VS Code, Eclipse IDE, Jupyter Notebook  
 
----
+--- 
 
 ### GitHub Stats
 
